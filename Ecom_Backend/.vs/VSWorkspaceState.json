@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ecom",
+    "\\ecom\\Data",
+    "\\ecom\\Data\\Migrations",
+    "\\ecom\\DTOs",
+    "\\ecom\\Entities",
+    "\\ecom\\Extensions",
+    "\\ecom\\Middleware",
+    "\\ecom\\obj",
+    "\\ecom\\Properties"
+  ],
+  "SelectedNode": "\\ecom\\ecom.sln",
+  "PreviewInSolutionExplorer": false
+}
